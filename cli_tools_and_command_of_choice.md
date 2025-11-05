@@ -9,6 +9,7 @@ SOX+Whisper
 
 **Options for Sox**
 See here: https://hyaline.systems/blog/sox-guide/ (e.g. type of file output)
+
 Or, to read the manual, open up a terminal and type: 
 `man sox`
 
