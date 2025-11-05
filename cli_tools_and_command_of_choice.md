@@ -1,14 +1,16 @@
 **Local transcription**
 
-
+SOX+Whisper
 
 1. Navigate to the folder you want to use as an archive
 2. CLI: sox -d filename.mp3
-3. whisper filename.mp3 --model medium
+3. CTRL+C to stop recording
+4. whisper filename.mp3 --model medium
 
-
-- SOX https://hyaline.systems/blog/sox-guide/
-
+**Options for Sox**
+See here: https://hyaline.systems/blog/sox-guide/ (e.g. type of file output)
+Or, to read the manual, open up a terminal and type: 
+`man sox`
 
 **comando ottimizzato:**  
 whisper Hpc\ quindi.wav --language Italian --model large-v3
