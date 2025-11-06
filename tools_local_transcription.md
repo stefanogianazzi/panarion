@@ -7,24 +7,15 @@ SOX+Whisper
 3. CTRL+C to stop recording
 4. whisper filename.mp3 --model medium
 
-**Options for Sox**
+**Options for Sox:**
 See here: https://hyaline.systems/blog/sox-guide/ (e.g. type of file output)
-
 Or, to read the manual, open up a terminal and type: 
 `man sox`
+Keep SoX recordings short (under a few minutes) when using Whisper locally to avoid memory overload.
 
-**comando ottimizzato:**  
+**fine-tuned command:**  
 whisper Hpc\ quindi.wav --language Italian --model large-v3
 whisper 2025_09_10_09_35_12.wav --language Italian --model large-v3 --output_format txt
-
-
-
-
-Optimized command examples
-whisper "Hpc quindi.wav" --language Italian --model large-v3
-whisper "2025_09_10_09_35_12.wav" --language Italian --model large-v3 --output_format txt
-
-
 These examples use the large-v3 model for better transcription quality in Italian and save the result as a text file.
 
 Useful options for Whisper
@@ -39,7 +30,4 @@ Option	Description
 Tips
 
 For long recordings, prefer --model medium or --model large-v3 for improved accuracy.
-
-Keep SoX recordings short (under a few minutes) when using Whisper locally to avoid memory overload.
-
 To speed up transcription, install the CUDA version of Whisper if you have a compatible GPU.
