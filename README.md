@@ -12,4 +12,5 @@ In an age where technology often breeds dependency, these open tools restore aut
 - [KeePassXC](https://keepassxc.org/) | secure, local password manager  
 - [SendMe](https://www.iroh.computer/sendme) | lightweight, open-source file sharing tool
 - [SoX](https://hyaline.systems/blog/sox-guide/) | command-line sound processing and recording utility
+- [Syncthing](https://syncthing.net/) | Continuous file synchronization program, it synchronizes files between two or more computers in real time, safely protected from prying eyes.
 - [Whisper](https://github.com/openai/whisper) | automatic speech recognition (ASR) system for transcription and translation
