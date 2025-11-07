@@ -1,5 +1,10 @@
 **Local transcription**
 
+> Speech is personal, yet most transcription tools treat it as a resource to be mined.  
+> Working locally with open software like SoX and Whisper means reclaiming autonomy over your data —  
+> no hidden servers, no opaque models, just transparent tools that respect privacy and reproducibility.
+
+
 SOX+Whisper
 
 1. Navigate to the folder you want to use as an archive
