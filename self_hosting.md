@@ -83,25 +83,15 @@ Each application runs in either a **Virtual Machine (VM)** or an **LXC Container
 ## 🗂️ File Sync, Documents & Personal Data
 
 ### **File Sync & Personal Drive**  
-**Software:** Seafile  
-**Type:** LXC Container or Virtual Machine  
-**Description:** High-performance, enterprise-grade file synchronization and collaboration, similar to Dropbox or Google Drive.  
+Seafile, a high-performance, enterprise-grade file synchronization and collaboration, similar to Dropbox or Google Drive.  
 🔗 https://www.seafile.com/
 
----
-
 ### **Calendar & Contacts Server**  
-**Software:** Radicale  
-**Type:** LXC Container or Virtual Machine  
-**Description:** A simple, lightweight CalDAV/CardDAV server for syncing calendars and address books across devices.  
+Radicale, a simple, lightweight CalDAV/CardDAV server for syncing calendars and address books across devices.  
 🔗 https://radicale.org/
 
----
-
 ### **Peer-to-Peer File Synchronization**  
-**Software:** Syncthing  
-**Type:** LXC Container or Virtual Machine  
-**Description:** Secure, decentralized file synchronization between devices with no central server required. Ideal for backups and collaborative folders.  
+Syncthing, secure, decentralized file synchronization between devices with no central server required. Ideal for backups and collaborative folders.  
 🔗 https://syncthing.net/
 
 ---
