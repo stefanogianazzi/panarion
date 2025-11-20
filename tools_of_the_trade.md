@@ -1,0 +1,6 @@
+- [LocalSend](https://localsend.org/) | open-source, cross-platform file transfer via local network
+- [KeePassXC](https://keepassxc.org/) | secure, local password manager  
+- [SendMe](https://www.iroh.computer/sendme) | lightweight, open-source file sharing tool
+- [SoX](https://hyaline.systems/blog/sox-guide/) | command-line sound processing and recording utility
+- [Syncthing](https://syncthing.net/) | File sync program, syncs files between computers in real time, safely protected from prying eyes.
+- [Whisper](https://github.com/openai/whisper) | automatic speech recognition (ASR) system for transcription and translation
