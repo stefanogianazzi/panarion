@@ -1,10 +1,8 @@
-🛠️ Tools of the Trade
+## 🛠️ Tools of the Trade
 
 In this digital habitat, where convenience intersects with controlled chaos, a carefully curated toolkit ensures that data flows, passwords endure, files migrate, audio obeys, and speech itself is tamed into structured text.
-These utilities form the invisible scaffolding of the self-hosted workflow — small, efficient, often overlooked, yet indispensable.
-Whether whispering commands into the machine, bending sound waves at the terminal, or shuttling files across the LAN at ludicrous speeds, each tool plays a precise role in maintaining order in an otherwise delightful entropy.
-
-Below is the arsenal that keeps the ecosystem coherent, secure, and occasionally magical:
+These utilities form the invisible scaffolding of the self-hosted workflow, small, efficient, often overlooked, yet indispensable.
+Whether whispering commands into the machine, bending sound waves at the terminal, or shuttling files across the LAN at ludicrous speeds, each tool plays a precise role in maintaining order in an otherwise delightful entropy. Below is the arsenal that keeps the ecosystem coherent, secure, and occasionally magical:
 
 - [LocalSend](https://localsend.org/) | open-source, cross-platform file transfer via local network
 - [KeePassXC](https://keepassxc.org/) | secure, local password manager  
@@ -14,6 +12,6 @@ Below is the arsenal that keeps the ecosystem coherent, secure, and occasionally
 - [Whisper](https://github.com/openai/whisper) | automatic speech recognition (ASR) system for transcription and translation
 
 
-Other
-[Go to self-hosting](self_hosting.md)
+### Other infos of interest
+[Go to self-hosting](self_hosting.md)<br>
 [Go to transcription tools](tools_local_transcription.md)
