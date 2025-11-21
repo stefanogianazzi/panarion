@@ -4,6 +4,7 @@ In this digital habitat, where convenience intersects with controlled chaos, a c
 These utilities form the invisible scaffolding of the self-hosted workflow, small, efficient, often overlooked, yet indispensable.
 Whether whispering commands into the machine, bending sound waves at the terminal, or shuttling files across the LAN at ludicrous speeds, each tool plays a precise role in maintaining order in an otherwise delightful entropy. Below is the arsenal that keeps the ecosystem coherent, secure, and occasionally magical:
 
+- [Croc](https://github.com/schollz/croc) | tool that allows any two computers to simply and securely transfer files and folders
 - [LocalSend](https://localsend.org/) | open-source, cross-platform file transfer via local network
 - [KeePassXC](https://keepassxc.org/) | secure, local password manager  
 - [SendMe](https://www.iroh.computer/sendme) | lightweight, open-source file sharing tool
